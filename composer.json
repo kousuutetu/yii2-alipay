@@ -1,0 +1,21 @@
+{
+    "name": "ginkgo/yii2-alipay",
+    "description": "Yii2 Alipay",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","alipay"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jeff",
+            "email": "kousuutetu@163.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ginkgo\\alipay\\": ""
+        }
+    }
+}
