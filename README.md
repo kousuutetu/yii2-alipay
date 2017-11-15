@@ -1,4 +1,4 @@
-Yii2 Alipay
+Ginkgo Alipay
 ===========
 
 Installation
